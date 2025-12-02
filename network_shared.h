@@ -1,3 +1,9 @@
+/*
+	Copyright 2025 Mahdi Almusaad (https://github.com/mahdialmusaad)
+	under the MIT License (https://opensource.org/license/mit)
+*/
+
+#pragma once
 #ifndef NETWORK_DEMO_SHARED_H
 #define NETWORK_DEMO_SHARED_H
 
