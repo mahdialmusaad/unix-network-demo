@@ -1,3 +1,8 @@
+/*
+	Copyright 2025 Mahdi Almusaad (https://github.com/mahdialmusaad)
+	under the MIT License (https://opensource.org/license/mit)
+*/
+
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
